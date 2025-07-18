@@ -120,9 +120,6 @@
         <mxCell id="3BfeAzv24xEFP0cl_79i-50" value="Iniciar sesión normal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="3BfeAzv24xEFP0cl_79i-1">
           <mxGeometry x="200" y="340" width="90" height="52.09" as="geometry" />
         </mxCell>
-        <mxCell id="krXc4eVBzm_EHaMRh-rB-1" value="mamala ismael" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3BfeAzv24xEFP0cl_79i-1">
-          <mxGeometry x="225" y="619.67" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8E8HEakJHe4h-VglnAm--1" value="&lt;div&gt;usuario&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="199.16000000000003" width="30" height="60" as="geometry" />
         </mxCell>
