@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" version="28.0.7">
   <diagram name="Página-1" id="7xqfnRYCcl9cOrJLdNOv">
-    <mxGraphModel dx="2493" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,13 +52,14 @@
         <mxCell id="Kwav2dh_edoDz0EaDqaM-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-160" y="-590" width="740" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Kwav2dh_edoDz0EaDqaM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="Kwav2dh_edoDz0EaDqaM-57" source="Kwav2dh_edoDz0EaDqaM-3" target="Kwav2dh_edoDz0EaDqaM-4" edge="1">
+        <mxCell id="Kwav2dh_edoDz0EaDqaM-15" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="Kwav2dh_edoDz0EaDqaM-57" source="Kwav2dh_edoDz0EaDqaM-3" target="Kwav2dh_edoDz0EaDqaM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kwav2dh_edoDz0EaDqaM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="Kwav2dh_edoDz0EaDqaM-57" source="Kwav2dh_edoDz0EaDqaM-3" target="Kwav2dh_edoDz0EaDqaM-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="528" y="290" />
+              <mxPoint x="300" y="260" />
+              <mxPoint x="528" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
