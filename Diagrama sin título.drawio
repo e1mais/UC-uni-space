@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Página-1" id="7xqfnRYCcl9cOrJLdNOv">
-    <mxGraphModel dx="2742" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="2707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
         <mxCell id="Kwav2dh_edoDz0EaDqaM-65" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470" y="910" width="750" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="Kwav2dh_edoDz0EaDqaM-26" value="Tareas solicitantes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="Kwav2dh_edoDz0EaDqaM-65" vertex="1">
+        <mxCell id="Kwav2dh_edoDz0EaDqaM-26" value="Navegar a Tareas Solicitantes" style="ellipse;whiteSpace=wrap;html=1;" parent="Kwav2dh_edoDz0EaDqaM-65" vertex="1">
           <mxGeometry x="315.5844155844156" y="50" width="116.88311688311688" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kwav2dh_edoDz0EaDqaM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Kwav2dh_edoDz0EaDqaM-65" source="Kwav2dh_edoDz0EaDqaM-38" target="Kwav2dh_edoDz0EaDqaM-26" edge="1">
